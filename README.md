@@ -16,7 +16,7 @@
 
 9) Copy the discord channel id and assing to variable CHANNEL_ID in main.py
 
-8) Copy this and paste it into data.txt (Wallet Address, Collection Address, Collection Name, Transaction Time,Floor Price, Role ID)
+10) Copy this and paste it into data.txt (Wallet Address, Collection Address, Collection Name, Transaction Time,Floor Price, Role ID)
 
 EVM_ADDRESS,123,123,123,123,123
 EVM_ADDRESS,123,123,123,123,123
@@ -25,4 +25,4 @@ EVM_ADDRESS,123,123,123,123,123
 EVM_ADDRESS,123,123,123,123,123
 EVM_ADDRESS,123,123,123,123,123
 
-9) Modify the wallet address that u want to track
+11) Modify the wallet address that u want to track
