@@ -17,7 +17,7 @@
 9) Copy the discord channel id and assing to variable CHANNEL_ID in main.py
 
 10) Copy this and paste it into data.txt (Wallet Address, Collection Address, Collection Name, Transaction Time,Floor Price, Role ID)
-11) 
+
 
 EVM_ADDRESS,123,123,123,123,123
 
